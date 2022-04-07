@@ -32,11 +32,11 @@
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="java" width="50" height="50"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit1107-2002&show_icons=true&locale=en&layout=compact" alt="rohit1107-2002" /></p>
+<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit1107-2002&show_icons=true&locale=en&layout=compact" alt="rohit1107-2002" /> &nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit1107-2002&show_icons=true&locale=en" alt="rohit1107-2002" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit1107-2002&show_icons=true&locale=en" alt="rohit1107-2002" />&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1107-2002&" alt="rohit1107-2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1107-2002&" alt="rohit1107-2002" />&nbsp;</p>
 
 
 
