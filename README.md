@@ -8,7 +8,7 @@
 <h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
 <a href="mailto:rohit952513@gmail.com"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" height="40" width="40" alt="mail"></a> &nbsp;
-<a href="https://www.linkedin.com/in/rohit-kumar-1107/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-1107" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rohit-kumar-1107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-1107" height="30" width="40" /></a>&nbsp;
 <a href="https://leetcode.com/rohit952513/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit952513" height="35" width="50" /></a>&nbsp;
 <a href="https://www.hackerrank.com/rohit952513/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohit952513" height="35" width="40" /></a>&nbsp;
 <a href="https://www.codechef.com/users/rohit_kr_1107" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohit_kr_1107" height="30" width="50" /></a>&nbsp;
