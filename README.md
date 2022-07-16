@@ -38,7 +38,7 @@
 </p>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1107-2002&layout=compact)](https://github.com/rohit1107-2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1107-2002&layout=compact&theme=radical)](https://github.com/rohit1107-2002/github-readme-stats)
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit1107-2002&show_icons=true&theme=radical)
 
