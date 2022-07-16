@@ -10,9 +10,9 @@
 <a href="mailto:rohit952513@gmail.com"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" height="40" width="40" alt="mail"></a> &nbsp;
 <a href="https://www.linkedin.com/in/rohit-kumar-1107/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-1107" height="30" width="40" /></a>&nbsp;
 <a href="https://leetcode.com/rohit952513/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit952513" height="35" width="50" /></a>&nbsp;
+<a href="https://www.interviewbit.com/profile/rohit-kumar-1107" target="__blank"><img align="center" src="https://assets.interviewbit.com/assets/ib-logo-904db47f8d2208f21a168bfe4851e0fdcc041f2487b6a8ec0b181d3724dbd012.png.gz" alt="rohit-kumar-1107" height="60" width="60" /></a>&nbsp;
 <a href="https://www.hackerrank.com/rohit952513/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohit952513" height="35" width="40" /></a>&nbsp;
 <a href="https://www.codechef.com/users/rohit_kr_1107" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohit_kr_1107" height="30" width="50" /></a>&nbsp;
-<a href="https://www.interviewbit.com/profile/rohit-kumar-1107" target="__blank"><img align="center" src="https://assets.interviewbit.com/assets/ib-logo-904db47f8d2208f21a168bfe4851e0fdcc041f2487b6a8ec0b181d3724dbd012.png.gz" alt="rohit-kumar-1107" height="60" width="60" /></a>&nbsp;
 
 </p>
 
@@ -30,6 +30,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/80086654/179349378-7dabe54d-eec7-4cb2-81c5-e255cd8561ee.png)" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
   
