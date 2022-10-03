@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Web Developer | DSA Enthusiast</h3>
+<h3 align="center">Full Stack Developer | DSA Enthusiast</h3>
 
 - 👨‍🎓 I'm a pre final year student at **NSUT, Delhi**.
-- 💬 **Ask me** about Data Structures & Web Development.
+- 💬 **Ask me** about Data Structures & Full Stack Development.
 - 😄 **Pronouns**: He/His<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit1107-2002&label=Profile%20views&color=0e75b6&style=flat" alt="rohit1107-2002" /> </p>
 <h3 align="left">🌐 Connect with me :</h3>
