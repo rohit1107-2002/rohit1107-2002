@@ -44,6 +44,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1107-2002&theme=dark)](https://git.io/streak-stats)
 
+[![@rohit952513's Holopin board](https://holopin.me/rohit952513)](https://holopin.io/@rohit952513)
+
 
 
 <!-- - 👋 Hi, I’m @rohit1107-2002
